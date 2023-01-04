@@ -5,5 +5,7 @@ public class MyTest {
     public void test01(){}
     @Test
     public void test02(){}
+    @Test
+    public void test03(){}
 
 }
